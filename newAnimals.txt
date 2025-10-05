@@ -1,0 +1,23 @@
+Hyena (ID: Hy01), Name: Shenzi, Sex: female, Age: 4 years, Weight: 70 lbs, Color: tan color, Birth: 2021-03-21, Origin: from Friguia Park, Tunisia, Arrived: 2025-10-05
+Hyena (ID: Hy02), Name: Banzai, Sex: male, Age: 12 years, Weight: 150 lbs, Color: brown color, Birth: 2013-09-21, Origin: from Friguia Park, Tunisia, Arrived: 2025-10-05
+Hyena (ID: Hy03), Name: Ed, Sex: male, Age: 4 years, Weight: 120 lbs, Color: black color, Birth: 2021-03-21, Origin: from Friguia Park, Tunisia, Arrived: 2025-10-05
+Hyena (ID: Hy04), Name: Zig, Sex: female, Age: 8 years, Weight: 105 lbs, Color: black and tan striped color, Birth: 2017-01-01, Origin: from Friguia Park, Tunisia, Arrived: 2025-10-05
+Lion (ID: Li01), Name: Scar, Sex: female, Age: 6 years, Weight: 300 lbs, Color: tan color, Birth: 2019-03-21, Origin: from Zanzibar, Tanzania, Arrived: 2025-10-05
+Lion (ID: Li02), Name: Mufasa, Sex: female, Age: 12 years, Weight: 375 lbs, Color: dark tan color, Birth: 2013-12-21, Origin: from KopeLion, Tanzania, Arrived: 2025-10-05
+Lion (ID: Li03), Name: Simba, Sex: male, Age: 22 years, Weight: 450 lbs, Color: golden color, Birth: 2003-09-21, Origin: from Zanzibar, Tanzania, Arrived: 2025-10-05
+Lion (ID: Li04), Name: Kiara, Sex: female, Age: 4 years, Weight: 275 lbs, Color: tan and brown color, Birth: 2021-03-21, Origin: from KopeLion, Tanzania, Arrived: 2025-10-05
+Tiger (ID: Ti01), Name: Tony, Sex: male, Age: 2 years, Weight: 270 lbs, Color: gold and tan stripes color, Birth: 2023-03-21, Origin: from Dhaka, Bangladesh, Arrived: 2025-10-05
+Tiger (ID: Ti02), Name: Tigger, Sex: female, Age: 4 years, Weight: 400 lbs, Color: black stripes color, Birth: 2021-03-21, Origin: from Dhaka, Bangladesh, Arrived: 2025-10-05
+Tiger (ID: Ti03), Name: Amber, Sex: male, Age: 18 years, Weight: 300 lbs, Color: gold and tan color, Birth: 2007-09-21, Origin: from Bardia, Nepal, Arrived: 2025-10-05
+Tiger (ID: Ti04), Name: Cosimia, Sex: female, Age: 3 years, Weight: 285 lbs, Color: black stripes color, Birth: 2022-03-21, Origin: from Bardia, Nepal, Arrived: 2025-10-05
+Bear (ID: Be01), Name: Yogi, Sex: male, Age: 7 years, Weight: 320 lbs, Color: brown color, Birth: 2018-03-21, Origin: from Alaska Zoo, Alaska, Arrived: 2025-10-05
+Bear (ID: Be02), Name: Smokey, Sex: female, Age: 25 years, Weight: 425 lbs, Color: black color, Birth: 2000-03-21, Origin: from Woodland park Zoo, Washington , Arrived: 2025-10-05
+Bear (ID: Be03), Name: Paddington, Sex: female, Age: 4 years, Weight: 355 lbs, Color: black color, Birth: 2021-09-21, Origin: from Woodland park Zoo, Washington , Arrived: 2025-10-05
+Bear (ID: Be04), Name: Lippy, Sex: male, Age: 4 years, Weight: 405 lbs, Color: brown color, Birth: 2021-03-21, Origin: from Alaska Zoo, Alaska, Arrived: 2025-10-05
+
+Animal Species Count:
+Hyenas: 4
+Bears: 4
+Tigers: 4
+Lions: 4
+Total Animals: 16
